@@ -1,6 +1,6 @@
 # Crypto Wallet
 
-React/TypeScript crypto wallet demo. Shows balances for BTC/ETH/USDT/SOL/ADA with withdrawal functionality.
+React/TypeScript crypto wallet demo following NexStox colour scheme. Shows balances for BTC/ETH/USDT/SOL/ADA with withdrawal functionality.
 
 ## Structure
 ```
